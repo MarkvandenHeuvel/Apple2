@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Apple</string>
+    <string name="action_settings">Settings</string>
+    <string name="titlerecipe">Ostrich</string>
+    <string name="shortDescriptionRecipe">This recipe does not tell you how to make any food. It is
+        just dicking (Dutch: lullen) about randdom this you know. Just to see how the layout works
+        out.</string>
+    <string name="information">\
+        Environment\n\n
+    Water footprint\n\n
+    Carbon footprint\n\n
+        Time\n\n
+        Difficulty\n\n
+        Price\n\n
+        Rating
+    </string>
+    <string name="ingredients">There are several ingredients:\n
+    1 chicken\n
+    500g of shoes\n
+    50 lbs of marmalade\n
+    600 l of liquid nitrogen\n
+    2 nucreal reactors for power</string>
+    <string name="instruction">1. Use the nuclear reactors to cut the shoes. Only use half the shoe for
+    dinner, use the other half to hide the nuclear  waste you just produced. Let simmer for 2 minutes.\n\n
+    2. Use the marmalade to catch some ants. Then use them to clean the wounds that were caused by the
+    high amounts of radiation.\n\n
+    3. Die from radiation disease. If everyone died but you, use the nitrogen to freeze yourself and
+    die happily ever after.</string>
+
+    <string name="environmentInformation"> Environmental Rating\n
+        Producing food has a certain impact
+        on the environment. For examples, to create farmland huge forests are cut down, to grow crops
+        a lot of fertilizers and pesticides are used, animals are treated with hormones and antibiotics
+        which pollute the land and water, create antibiotic resistances and can cause harm in humans,
+        water resources are being depleted for irrigation, the fish populations are nearly depleted and
+        food production and transportation set free a lot of greenhouse gas emissions.\n\n
+        The environmental rating includes all these aspects and creates a weighted rating of the environmental
+        impact of the dish.\n\n
+        In general products from animal origin have a higher environmental impact, because animals require
+        more space and water than crops. They also require crops as food and medical treatments. These all
+        lead to a lower environmental rating.
+</string>
+
+    <string name="informationWaterFootprint">
+        Water footprint\n
+        The water footprint indicates how much water is needed to create a certain product,
+        in this case the specific meal. Included in the water footprint are all the steps from production,
+        transportation and final usage. \n\n
+        For food the most important factor is the water used in the production, especially when growing crops. 
+        The other factors are compared to this neglectable low. When producing meat a lot of crops need 
+        to be grown to feed the animals. Because the feed conversion efficiency is low, animals need to 
+        eat much more crops than they produce meat. Thus to produce meat more water is needed than to produce 
+        crops.\n\n
+        The table below shows an overview of the water usage of different types of diets. To create one 
+        kCal of food from animal origin 2.5 L of water are used, for food from vegetable origin 0.5 L 
+        are used.        
+    </string>
+    
+    <string name="informationCarbonFootprint">
+        Carbon footprint\n
+        The carbon footprint measures all greenhouse gases that are released when
+        producing a certain product, in this case a dish. It is usually expressed in equivalents of 
+        carbon dioxide. The carbon footprint includes all steps, from production, transportation and 
+        final usage.\n\n
+        Different types of food produce different amounts of greenhouse emissions (GHE). Worldwide 
+        15% of all GHE are due to agriculture. Products from animal origin produce more GHE than from
+        vegetable.
+    </string>
+
+    <string name="informationTime">
+        Time\n
+        The time includes the total cooking time, including preparations.\n\n
+
+        Ratings:\n
+		1 clock: 0 – a minutes\n
+		2 clocks : b – c minutes\n
+		3 clocks : d – e minutes\n
+		4 clocks : f – g minutes\n
+		5 clocks : more than h minutes
+
+    </string>
+    
+    <string name="informationDifficulty">
+        Difficulty\n
+        The rating for the difficulty gives an indication of how difficult is recipe is
+        to make. A rating of 1 means it is a very easy recipe and is suitable for beginners. A rating 
+        of 5 is given for the most difficult recipes.
+    </string>
+    
+    <string name="informationPrice">
+        Price\n
+        The price rating includes the prices of all the ingredients used based on an average
+        price for a certain ingredient. The rating takes into account the exact amounts used. The price
+        is given per person.\n\n
+
+		Ratings:\n
+		1 coin: 0 – a €\n
+		2 coins: b – c €\n
+		3 coins: d – e €\n
+		4 coins: f – g €\n
+		5 coins: more than h €
+    </string>
+    
+    <string name="informationRanking">
+        Rating\n
+        The rating shows the average of all the ratings people who use this app have given the
+        recipe.
+    </string>
+</resources>
